@@ -5,6 +5,6 @@ spring:
         registration:
           google:
             redirect-uri: http://localhost:8080
-            client-id: 408895537989-1scehb9b0v4dk4nr6d5resirbspo4bsj.apps.googleusercontent.com
-            client-secret: SygNRANd08MZCh19hBuCaXjB
+            client-id: client-id
+            client-secret: client-secret
             scope: profile, email
